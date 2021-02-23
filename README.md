@@ -1,5 +1,4 @@
 ### Saudações!  👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMLara&show_icons=true&theme=dark)
 <!--
 **LucasMLara/LucasMLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 
 ---
 ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMLara&show_icons=true&theme=dark)
