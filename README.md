@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 -->
 <p display="flex">
-  <img height="400" width="300" src="pet.jpeg">
-  <img height="400" width="600" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+  <img height="400" width="300" src="pet.jpeg"><img height="400" width="600" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 </p>
   
 
