@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucasmlara/) ![GitHub followers](https://img.shields.io/github/followers/LucasMLara?style=social) 
 
 - :mortar_board: Estou em mudança de carreira, estudando Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
-- 🌱 Atualmente estou estudando <a href="https://nodejs.org/en/docs/" rel="nofollow">NodeJS</a> em Arquitetura SOLID e ORM com <a href="https://sequelize.org/" rel="nofollow">Sequelize</a>
+- 🌱 Atualmente estou estudando <a href="https://socket.io/" rel="nofollow">Socket.IO</a>
 - :computer: Gamer
 - :telescope: "O conhecimento é como um Jardim: Se não for cultivado, não pode ser colhido" (Provérbio Africano)
 - :hearts: Lealdade, Diversão e Trabalho em Equipe! 
