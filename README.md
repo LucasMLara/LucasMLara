@@ -31,7 +31,7 @@ ________________________________________________________________
 - :computer: Gamer
 - :telescope: "O conhecimento é como um Jardim: Se não for cultivado, não pode ser colhido" (Provérbio 
 Africano)
-- :hearts: Pai de uma linda menina e da cachorrinha mais linda do Mundo!!! 
+- :hearts: Pai de uma linda menina e da cachorrinha mais maravilhosa do Mundo!!! 
 - :hearts: Lealdade, Diversão e Trabalho em Equipe! 
 - :e-mail: LucasML@Live.com
 <img height="400" width="300" src="pet.jpeg">
