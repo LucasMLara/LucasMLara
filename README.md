@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 ________________________________________________________________
 
->[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucasmlara/) ![GitHub followers](https://img.shields.io/github/followers/LucasMLara?style=social) 
+>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucasmlara/) ![GitHub followers](https://img.shields.io/github/followers/LucasMLara?style=social)
 
+<img height="400" width="300" src="pet.jpeg" align="right">
 ----------------------
 
 - :mortar_board: Estou em mudança de carreira, estudando Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
@@ -34,9 +35,6 @@ Africano)
 - :hearts: Pai de uma linda menina e da cachorrinha mais maravilhosa do Mundo!!! 
 - :hearts: Lealdade, Diversão e Trabalho em Equipe! 
 - :e-mail: LucasML@Live.com
-<img height="400" width="300" src="pet.jpeg">
-
-
 ____________
 
 ## Social
