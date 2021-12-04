@@ -27,7 +27,7 @@ ________________________________________________________________
 
 
 - :mortar_board: Estou em mudança de carreira, estudando Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
-- 🌱 Atualmente estou estudando <a href="https://socket.io/" rel="nofollow">Socket.IO</a>
+- 🌱 Atualmente estou estudando <a href="https://www.python.org/" rel="nofollow">Python</a>
 - :computer: Gamer
 - :telescope: "O conhecimento é como um Jardim: Se não for cultivado, não pode ser colhido" (Provérbio 
 Africano)
