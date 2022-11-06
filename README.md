@@ -13,7 +13,7 @@ Africano)
 - :hearts: Pai de uma linda menina e da cachorrinha mais maravilhosa do Mundo!!! 
 - :hearts: Lealdade, Diversão e Trabalho em Equipe! 
 - :e-mail: LucasML@Live.com
-- :iphone: +55 (27) 99749 - 3742
+- :iphone: +55 (27) 99749 - 3742 (WhatsApp)
 ____________
 
 ## Social
