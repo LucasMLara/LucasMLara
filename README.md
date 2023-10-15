@@ -2,7 +2,6 @@
 
 ________________________________________________________________
 
->[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucasmlara/) ![GitHub followers](https://img.shields.io/github/followers/LucasMLara?style=social)
 <img height="400" width="300" src="pet.jpeg" align="right">
 
 
