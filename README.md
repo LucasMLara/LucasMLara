@@ -5,7 +5,7 @@ ________________________________________________________________
 <img height="400" width="300" src="pet.jpeg" align="right">
 
 
-- :mortar_board: Estou em mudança de carreira, formado em Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
+- :mortar_board: Formado em Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
 - :computer: Gamer
 - :telescope: "O conhecimento é como um Jardim: Se não for cultivado, não pode ser colhido" (Provérbio 
 Africano)
